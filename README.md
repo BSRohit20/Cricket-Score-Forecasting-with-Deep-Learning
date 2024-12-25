@@ -33,8 +33,8 @@ Ensure you have the following installed:
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/cricket-score-predictor.git
-   cd cricket-score-predictor
+   git clone https://github.com/BSRohit20/Cricket-Score-Forecasting-with-Deep-Learning.git
+   cd Cricket-Score-Forecasting-with-Deep-Learning
    ```
 
 2. Install the required packages:
@@ -82,12 +82,3 @@ Run the notebook to access the interactive UI:
 ---
 
 
-## Acknowledgments 🙏
-- The IPL dataset is publicly available and used purely for educational purposes.
-- Thanks to the open-source community for the amazing libraries used in this project.
-```
-
-### Notes:
-1. Replace `yourusername` in the clone command with your GitHub username.
-2. Update the file structure and dependencies in the `requirements.txt` as needed.
-3. Include a `LICENSE` file in the repository if you wish to specify a license.
