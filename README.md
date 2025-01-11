@@ -1,5 +1,5 @@
 
-# Cricket Score Predictor 🏏
+# Cricket Score Forecasting with Deep Learning 🏏
 
 This project predicts the final cricket score of a team based on various match conditions using a neural network model. The model is built using TensorFlow and Keras, and an interactive UI is provided using `ipywidgets`.
 
